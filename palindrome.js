@@ -1,5 +1,5 @@
 //	Nama	: Junjun Junaedi
-//	NIM		: 20190040028
+//	NIM	: 20190040028
 //	Kelas	: Ti19A
 
 function reverse(param){
