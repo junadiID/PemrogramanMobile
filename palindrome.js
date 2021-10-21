@@ -6,7 +6,7 @@ function reverse(param){
 	}
 	return y;
 }
-var word = "katak";
+var word = "Makan";
 if(word === reverse(word)){
 	console.log("Kata `"+word+"`  Palindrome.");
 }
